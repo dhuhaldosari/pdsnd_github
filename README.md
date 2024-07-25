@@ -1,6 +1,6 @@
 Date created:
 
-23/07/2024
+25/07/2024
 
 Project Title:
 
@@ -8,7 +8,7 @@ Bikeshare Project
 
 Description:
 
-Interactive descriptive statistics on bike share system in 3 major cities in the United States; Chicago, New York, and Washington
+Interactive descriptive statistics on bike share system in 3 major cities in the United States; Chicago, New York, and Washington.
 
 Files used:
 
